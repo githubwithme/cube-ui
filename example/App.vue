@@ -60,6 +60,10 @@
             text: 'Toast'
           },
           {
+            path: '/validator',
+            text: 'Validator'
+          },
+          {
             path: '/picker',
             text: 'Picker'
           },
