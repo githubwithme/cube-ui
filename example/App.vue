@@ -60,6 +60,10 @@
             text: 'Toast'
           },
           {
+            path: '/rate',
+            text: 'Rate'
+          },
+          {
             path: '/picker',
             text: 'Picker'
           },
