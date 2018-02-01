@@ -17,6 +17,7 @@ import CascadePicker from './modules/cascade-picker'
 import Scroll from './modules/scroll'
 
 import Upload from './modules/upload'
+import Swipe from './modules/swipe'
 
 import BScroll from './modules/better-scroll'
 import createAPI from './modules/create-api'
@@ -26,6 +27,7 @@ const Checkbox = CheckboxGroup.Checkbox
 const Loading = Toast.Loading
 const SlideItem = Slide.Item
 const Radio = RadioGroup.Radio
+const SwipeItem = Swipe.Item
 
 export {
   Style,
@@ -49,6 +51,8 @@ export {
   Loading,
   IndexList,
   Upload,
+  Swipe,
+  SwipeItem,
   BScroll,
   createAPI
 }
